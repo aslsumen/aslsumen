@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Hi there👋! My name is Aslı and I'm a senior Software Engineer Student</h4>
+<h4 align="left">Hi there👋! My name is Aslı and I'm studying Master's in Software Engineer.</h4>
 
 ###
 
