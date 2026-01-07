@@ -70,19 +70,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=aslsumen" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aslsumen/count.svg?"  />
-</div>
 
 ###
 <!--
